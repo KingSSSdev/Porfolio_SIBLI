@@ -6,7 +6,7 @@
     box-sizing: border-box;
 }
 body{
-    background-image:URL('./Moi/94cfe260-3568-4750-bb5a-9799b2c9ba0f.JPEG');
+    background-image:URL('/Moi/94cfe260-3568-4750-bb5a-9799b2c9ba0f.jpeg');
     background-size: cover;
 }
 .container {
